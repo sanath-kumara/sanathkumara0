@@ -1,15 +1,10 @@
 # Hi there! 👋
-I'm John Doe, a passionate developer from Earth. 🌍
+I'm Sanath Kumara, a mechatronics engineer. 🌍
 
 ## Skills
-- Python
-- JavaScript
-- Web Development
-
-## GitHub Stats
-!John's GitHub stats
+- C / C++
+- CAD
 
 ## Connect with Me
-- LinkedIn
-- Twitter
+- https://www.linkedin.com/in/sanathkumara/
 
